@@ -1,5 +1,4 @@
 export default {
-  base: '/hs-saas-ckuidocs-web/',
   themeConfig: {
     siteTitle: false,
     logo: "/logo.png",
